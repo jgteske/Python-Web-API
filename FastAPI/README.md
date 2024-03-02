@@ -16,4 +16,4 @@ docker run -p 80:80 my-fastapi-app
 
 ## Access it on your browser
 
-[Local Website](http://localhost:80)
+[Local Website](http://localhost/docs#/)
