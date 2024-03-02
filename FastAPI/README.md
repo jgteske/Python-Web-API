@@ -11,7 +11,7 @@ docker build -t my-fastapi-app .
 ## Run Docker Container
 
 ```cmd
-docker run -p 80:80 my-fastapi-app
+docker run -it --rm -p 80:80 my-fastapi-app
 ```
 
 ## Access it on your browser
